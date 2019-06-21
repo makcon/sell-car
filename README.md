@@ -7,3 +7,4 @@
 3. Run main method of the class `fun.sale.Game`
 4. Follow the instructions of the bot
 5. Try to sell your car with the best price
+6. After you finish a sell and agree to continue, try to type the same name to see your history.
